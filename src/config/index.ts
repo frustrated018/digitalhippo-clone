@@ -9,8 +9,8 @@ export const PRODUCT_CATEGORIES = [
     ],
   },
   {
-    label: "UI Ktis",
-    value: "ui_kits" as const,
+    label: "Icons",
+    value: "icons" as const,
     featured: [
       { name: "Editor picks", href: "#", imageSrc: "/nav/icons/picks.jpg" },
       { name: "New Arrivals", href: "#", imageSrc: "/nav/icons/new.jpg" },
